@@ -39,4 +39,4 @@ def skills(skill):
     return str_candidates
 # app.add_url_rule('/', view_func=page_index)
 
-app.run(debug=True)
+app.run()
